@@ -1,0 +1,89 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+h4 {
+    font-size: 19px;
+    line-height: 1.3em;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.container-fluid {
+    padding: 60px 50px;
+}
+
+.navbar {
+    background-color: #f4511e;
+    line-height: 1.4;
+    font-size: 12px;
+    letter-spacing: 4px;
+    font-family: Montserrat, sans-serif;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-nav a {
+    color: #fff;
+}
+
+.navbar .navbar-nav a.active,
+.navbar .navbar-nav a:hover {
+    color: #f4511e;
+    background-color: #fff;
+}
+
+#header {
+    background-color: #f4511e;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    padding: 100px 0px;
+}
+
+#header form {
+    width: 400px;
+    margin: auto;
+}
+
+#header form button {
+    background-color: #f4511e;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.btn-orange {
+    background-color: #f4511e;
+    color: #fff;
+    border: 1px solid #fff;
+
+}
+
+.btn-orange:hover {
+    background-color: #fff;
+    color: #f4511e;
+    border: 1px solid #f4511e;
+}
+
+.icon-lg {
+    color: #f4511e;
+    font-size: 200px;
+}
+
+.icon-sm {
+    color: #f4511e;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
